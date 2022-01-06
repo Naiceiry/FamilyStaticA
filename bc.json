@@ -6,7 +6,7 @@
 	"preview": "https://github.com/breatheco-de/exercise-family-static-api/blob/master/preview.png?raw=true",
 	"solution": "https://github.com/breatheco-de/exercise-family-static-api/tree/solution",
 	"difficulty": "beginner",
-	"technologies": ["flask", "python", "json", "serialization", "data-structures", "rest","api"],
+	"technologies": ["flask", "python", "json", "serialization", "data-structures", "rest","api","apis"],
 	"duration" : 8,
 	"description" : "Create an API to show family members",
 	"talents": [
